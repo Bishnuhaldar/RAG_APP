@@ -1,0 +1,16 @@
+# No versions specified
+langchain
+langchain-openai
+langchain-community
+langchain-pinecone
+pinecone-client
+faiss-cpu
+fastapi
+uvicorn
+python-dotenv
+pydantic
+pydantic-settings
+pypdf
+tiktoken
+loguru
+httpx
