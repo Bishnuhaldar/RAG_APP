@@ -1,6 +1,7 @@
 # No versions specified
 langchain
 langchain-openai
+langchian-docling
 langchain-community
 langchain-pinecone
 pinecone-client
